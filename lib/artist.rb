@@ -41,13 +41,4 @@ class Artist
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
 end 
